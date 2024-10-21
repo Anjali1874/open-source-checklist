@@ -28,3 +28,5 @@ Want to contribute? [Follow these recommendations](https://github.com/afonsopaci
 ## License
 
 [MIT License](https://github.com/afonsopacifer/open-source-checklist/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+
+changes made by ANJALI
