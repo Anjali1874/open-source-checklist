@@ -1,3 +1,6 @@
+Updated the readme.md
+
+
 # [Open Source Checklist](http://afonsopacifer.github.io/open-source-checklist/)
 
 > A guide to help you remember important things when creating an open source project ;D
@@ -30,3 +33,4 @@ Want to contribute? [Follow these recommendations](https://github.com/afonsopaci
 [MIT License](https://github.com/afonsopacifer/open-source-checklist/blob/master/LICENSE.md) © [Afonso Pacifer](http://afonsopacifer.com/)
 
 changes made by ANJALI
+
